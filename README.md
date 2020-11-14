@@ -1,5 +1,5 @@
 
-#ParallelGoL
+ParallelGoL
 
 This repository will hold 4 versions of solving the Game of Life problem in Python, done as an effective way of learning different aspects of parallelization - multithreading, multipocessing and process pools.
 
